@@ -1,4 +1,4 @@
-# Bankloancasestudy
+# Bank loan case study
 
 This case study focuses on conducting exploratory data analysis (EDA) using visualizations and statistical summaries on loan application data. The goal is to identify factors influencing an applicant's likelihood of defaulting versus being a non-defaulter. Through this analysis, we aim to uncover patterns and insights that differentiate defaulters from non-defaulters, facilitating a better understanding of credit risk factors.
 
